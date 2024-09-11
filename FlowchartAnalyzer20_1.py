@@ -121,6 +121,7 @@ def is_rhombus(approx):
 
     return False
 
+### AAA
 # 画像中の形状を検出する関数 (続き)
 def detect_shapes(image):
     shapes = []
